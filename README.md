@@ -157,6 +157,11 @@ Some important insights discovered during the analysis include:
 
 ---
 
+# Screenshot
+
+<img width="1128" height="646" alt="Screenshot 2026-06-28 190852" src="https://github.com/user-attachments/assets/5a52c95f-698d-48cd-83b4-3d6bf834ee8d" />
+
+---
 
 Skills:
 SQL | Python | Power BI | Excel | Data Visualization
