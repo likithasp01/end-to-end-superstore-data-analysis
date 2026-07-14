@@ -118,17 +118,33 @@ Created an interactive dashboard including:
 
 ## Key Findings
 
-Some important insights discovered during the analysis include:
+The analysis revealed the following key business insights:
 
-- Certain product categories contribute significantly more to total sales than others.
-- High sales do not always translate into high profit due to heavy discounts.
-- Regional sales performance varies considerably across different locations.
-- A small number of customers contribute a large share of total revenue.
-- Some products generate consistent losses despite high sales volume.
-- Seasonal trends influence monthly sales performance.
+- Sales and profitability vary significantly across different product categories and regions.
+- High discounts often reduce overall profitability despite increasing sales volume.
+- A small group of customers contributes a significant share of total revenue.
+- Some products generate consistent losses and require pricing or discount strategy review.
+- Seasonal sales trends indicate opportunities for better inventory planning and promotional campaigns.
 
 ---
 
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations can help improve business performance:
+
+- Review discount strategies for products with high sales but low profitability.
+- Focus marketing efforts on high-value customers to increase customer retention.
+- Improve sales performance in underperforming regions through targeted campaigns.
+- Maintain sufficient inventory for high-performing products to avoid stock shortages.
+- Monitor seasonal sales trends to optimize inventory planning and promotional activities.
+
+---
+## Business Impact
+
+This analysis provides actionable insights into sales performance, profitability, customer behavior, and regional trends. The findings can help business stakeholders make informed decisions related to pricing strategies, inventory planning, customer targeting, and overall business growth.
+
+---
 ## Skills Demonstrated
 
 - SQL Data Cleaning
@@ -157,7 +173,10 @@ Some important insights discovered during the analysis include:
 
 ---
 
-# Screenshot
+## Dashboard Preview
+
+The Power BI dashboard provides an interactive overview of key sales KPIs, regional performance, product categories, customer trends, and profitability using dynamic filters and visualizations.
+
 
 <img width="1128" height="646" alt="Screenshot 2026-06-28 190852" src="https://github.com/user-attachments/assets/5a52c95f-698d-48cd-83b4-3d6bf834ee8d" />
 
